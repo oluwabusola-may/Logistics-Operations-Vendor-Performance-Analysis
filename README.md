@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/34258452/README.md)
 [swifthaul-README.md](https://github.com/user-attachments/files/28213965/swifthaul-README.md)
 # SwiftHaul-Analysis
 A Power BI dashboard built to diagnose delivery failures, vendor reliability and revenue concentration across SwiftHaul Logistics Nigeria's operations for 2023–2024.
@@ -33,7 +34,7 @@ With a 17.3% failure rate across 2,000+ shipments, SwiftHaul needed visibility i
 
 - **Delivery Status Donut** — 82.67% delivered on time; 13.93% delayed; 1.93% lost; remaining returned
 - **Vendor Performance (Failure Rate %)** — NaijaExpress flagged at 33.2% failure rate — more than double the next vendor (PrimeHaul at 17%)
-- **Regional Revenue Analysis** — Lagos (₦83M) and Abuja (₦67M) together account for over 50% of total revenue
+- **Regional Revenue Analysis** — Lagos (₦83M) and Abuja (₦67M) together account for about 50% of total revenue
 - **Transport Mode: Cost vs Value** — Air and Road deliver comparable revenue; Rail significantly underperforms
 - **Category Profitability (2023 vs 2024)** — Industrial Equipment and Electronics are the top-performing categories
 - **Monthly Revenue Trend** — Revenue peaks mid-year with notable dips in May and October
@@ -44,7 +45,7 @@ With a 17.3% failure rate across 2,000+ shipments, SwiftHaul needed visibility i
 ## Key Insights
 
 - **NaijaExpress accounts for 1 in 3 failed deliveries** — a reputational and operational risk at scale; contract review recommended
-- **Lagos and Abuja drive 60% of revenue** — the business is heavily region-concentrated; diversification or deeper penetration of Port Harcourt and Kano could reduce risk
+- **Lagos and Abuja drive about 50% of revenue** (₦83M + ₦67M of ₦298M) — the business is heavily region-concentrated; diversification or deeper penetration of Port Harcourt and Kano could reduce risk
 - **1 in 6 shipments fails to deliver on time** — at this volume, that's hundreds of customer experience failures per year
 - **Road transport delivers comparable satisfaction at a fraction of Air costs** — a cost optimisation opportunity the data makes hard to ignore
 
